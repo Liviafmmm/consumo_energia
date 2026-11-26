@@ -16,11 +16,11 @@ A estrutura do banco de dados foi representada por meio de diagramas que demonst
 
 ### mer_der_conceitual.png
 
-![mer_der_conceitual.png](./imagens/Diagramas/mer_der_conceitual.png)
+![mer_der_conceitual.png](./imagens/diagramas/mer_der_conceitual.png)
 
 ### mer_der_logico.png
 
-![mer_der_logico.png](./imagens/Diagramas/mer_der_logico.png)
+![mer_der_logico.png](./imagens/diagramas/mer_der_logico.png)
 
 ---
 
@@ -86,23 +86,23 @@ Os testes foram realizados utilizando o Thunder Client, com o objetivo de verifi
 
 ### verificação.png
 
-![verificação.png](./imagens/Prints/verificação.png)
+![verificação.png](./imagens/prints/verificação.png)
 
 ### cadastrar.png
 
-![cadastrar.png](./imagens/Prints/cadastrar.png)
+![cadastrar.png](./imagens/prints/cadastrar.png)
 
 ### listagem.png
 
-![listagem.png](./imagens/Prints/listagem.png)
+![listagem.png](./imagens/prints/listagem.png)
 
 ### consumomedio.png
 
-![consumomedio.png](./imagens/Prints/consumomedio.png)
+![consumomedio.png](./imagens/prints/consumomedio.png)
 
 ### testelogin.png
 
-![testelogin.png](./imagens/Prints/testelogin.png)
+![testelogin.png](./imagens/prints/testelogin.png)
 
 ---
 
